@@ -3,7 +3,7 @@ A small utility script to download WhatsApp images from selected conversations.
 
 ## Prerequisites
 * For this application, the Selenium module is needed and can be downloaded [here](https://selenium-python.readthedocs.io/installation.html).
-* Download the chrome web driver and create add its location to the PATH enviromental variable.
+* Download the [chrome web driver](https://chromedriver.chromium.org/downloads) and create add its location to the PATH enviromental variable.
 
 ## Usage
 1) Run the python script.
